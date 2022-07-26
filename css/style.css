@@ -117,6 +117,8 @@ ul {
     border: none;
     background : var(--skin-color);
     transition: all 0.3s ease;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .btn:hover {
@@ -608,6 +610,7 @@ h3.my-profession {
 .contact .contact-form {
     flex: 0 0 100%;
     max-width: 100%;
+    align-items: center;
 }
 
 .contact .contact-form .col-6 {
